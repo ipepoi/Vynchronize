@@ -201,3 +201,5 @@ grabbing the title required extra work, and could not be done continuously on th
 
 Please see the [Wiki](https://github.com/kyle8998/Vynchronize/wiki) for more
 information.
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
